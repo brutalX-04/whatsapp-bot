@@ -1,0 +1,5 @@
+ffmpeg-python
+neonize
+requests
+python-dotenv
+removebg

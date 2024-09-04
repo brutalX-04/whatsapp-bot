@@ -1,0 +1,25 @@
+[ *`MENU BOT`* ]
+
+> *Delete background* 
+    [ *!* ] _send photo or reply message as_ :
+           *.rmv*
+
+> *Img to Sticker* 
+    [ *!* ] _send photo or reply message as_ :
+           *.s*
+
+> *Sticker to Img* 
+    [ *!* ] _reply sticker as_ :
+           *.i*
+
+> *Reel Ig download*
+    [ *!* ] _send message as_ :
+           *.mp4* _url-reel_
+
+> *Tiktok download*
+    [ *!* ] _send message as_ :
+           *.mp4* _url-video_
+
+
+
+ [ _Thanks for using_ ]
